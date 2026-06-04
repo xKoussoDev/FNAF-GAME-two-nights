@@ -1,0 +1,64 @@
+================================================================
+CREDITS & ASSET SOURCES
+================================================================
+
+----------------------------------------------------------------
+3D MODELS
+----------------------------------------------------------------
+
+Freddy Fazbear
+  Source: Sketchfab
+  Model: "Freddy Fazbear from FNAF Help Wanted"
+  URL: https://sketchfab.com
+
+Bonnie
+  Source: Sketchfab
+  Model: "Bonnie FNAF HW"
+  URL: https://sketchfab.com
+
+Chica
+  Source: Sketchfab
+  Model: "Chica FNAF HW"
+  URL: https://sketchfab.com
+
+Foxy
+  Source: Sketchfab
+  Model: "Foxy FNAF HW"
+  URL: https://sketchfab.com
+
+Pizzeria Map
+  Source: Sketchfab
+  Model: "FNAF Pizzeria"
+  URL: https://sketchfab.com
+
+----------------------------------------------------------------
+AUDIO
+----------------------------------------------------------------
+
+
+Audio used in this project:
+  - Office ambience (electric hum loop)
+  - Door open / close sound effects
+  - Light switch click
+  - Camera static / VHS noise
+  - Monster bang (door hit)
+  - Jumpscare scream
+  - Foxy running footsteps
+  - Freddy laugh
+  - Horror sting (Game Over)
+  - Victory fanfare
+
+  Source: https://freesound.org
+
+  - Phone call 
+  Source: original audio call (recorder from de game)
+
+
+----------------------------------------------------------------
+UI SPRITES
+----------------------------------------------------------------
+
+Sprites (Freddy, Bonnie, Chica, Foxy, Menu, GameOver, Victory)
+source: https://www.spriters-resource.com/pc_computer/fivenightsatfreddys/
+
+
