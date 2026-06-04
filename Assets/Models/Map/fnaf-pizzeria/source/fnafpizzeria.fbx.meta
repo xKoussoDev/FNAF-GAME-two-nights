@@ -1,0 +1,345 @@
+fileFormatVersion: 2
+guid: cc7e8482874e1d447ad11ba3de819ffc
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Canos
+    second: {fileID: 2100000, guid: 5cf44dd9e7b130b48a51deed2506ad3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "DIBUJOni\xF1o Myfunnyday"
+    second: {fileID: 2100000, guid: da1f76043f619e44dba2f72cedff77f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "DIBUJOni\xF1o Myfunnyday - 2"
+    second: {fileID: 2100000, guid: 08171c7f5576d2146b34babe8a84141a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "DIBUJOni\xF1o Myfunnyday-3"
+    second: {fileID: 2100000, guid: 84d5539336b46b845b649cead7ee38a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door
+    second: {fileID: 2100000, guid: 38ce7648808558e49a1557259464dadd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EscenarioWood
+    second: {fileID: 2100000, guid: 61f18e81b0f750840b4db69572725b6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Estantes MAdera
+    second: {fileID: 2100000, guid: 1cbabcd9ed4156741a8e2c68ef9f12f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pizarra
+    second: {fileID: 2100000, guid: 5ea26afaacba7bc4386460f7ad5c88dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Toilet_Lock
+    second: {fileID: 2100000, guid: c6274b26351209544849525fea654d9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Toilet_Main White
+    second: {fileID: 2100000, guid: f8fda8c4dc13bca43a3e7b95a983a7b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Toilet_Metal
+    second: {fileID: 2100000, guid: 28a2655662069824993d313d9a47ad16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Toilet_Plastic
+    second: {fileID: 2100000, guid: 6d44e9abfb86a9047b55e1fef960cc08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aroPirateCove
+    second: {fileID: 2100000, guid: db17321d977e63f438b995aac69dbbd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asiento
+    second: {fileID: 2100000, guid: 8b49cad7fe5f3464687d6ddc87a21660, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: button_tv
+    second: {fileID: 2100000, guid: 3a3cd9d423b691a4d84dc555a8a2ed57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: button_tv.002
+    second: {fileID: 2100000, guid: 34dd549ed3c261b4b80df25613aadbd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cajones_cocina
+    second: {fileID: 2100000, guid: 341c9caf1675b384a8199c8ea9986d0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: coina
+    second: {fileID: 2100000, guid: 98b965143c4be494da5f4d404bd28cec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cortina
+    second: {fileID: 2100000, guid: 67099d5ebd1992e489c1f355f4f26e76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: escritorio
+    second: {fileID: 2100000, guid: 9fa0ac061d9f75a4e990f17e99fd2a5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor
+    second: {fileID: 2100000, guid: 0f6d033d1a75adb4cbd7e458726a3a1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fnaf
+    second: {fileID: 2100000, guid: 1a312d01765a1234da7cb2fb82d87aae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foco
+    second: {fileID: 2100000, guid: b6375e08ff42fb646a191ae8a501b06b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foco.020
+    second: {fileID: 2100000, guid: de64c5f096ef0a44e92df364bd92f1f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foco.039
+    second: {fileID: 2100000, guid: 86ca591291616704a8c7999d3e03514f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: c59a85df46b6c47449e3981a59b2bc92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gorro azul
+    second: {fileID: 2100000, guid: 8261bc0595df8864bb082c855b828789, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gorro marron
+    second: {fileID: 2100000, guid: f6b3f0f0b4f67474c8f8190023fc9628, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gorro rojo
+    second: {fileID: 2100000, guid: 9426824cf7429ed41887b814bb955016, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gorro verde
+    second: {fileID: 2100000, guid: a63f85d3e317d2840a9071ff71ab2f7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: granito
+    second: {fileID: 2100000, guid: 40053037eb25e5249b4d91a107268746, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hornillas
+    second: {fileID: 2100000, guid: 20358a6032c65a7408b558e08f2f8e8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horno
+    second: {fileID: 2100000, guid: 231f9d224cb28b942b691f2a114653a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: main material
+    second: {fileID: 2100000, guid: 737857b1ff2470f48982c6b50b30e46c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manecillas tv
+    second: {fileID: 2100000, guid: ff24370a7b7d1254fba51aa5cb8505a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mantel
+    second: {fileID: 2100000, guid: 51fe18844e9a6eb40a1043fe91db212e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesa
+    second: {fileID: 2100000, guid: 7761431baa0759f49b041ccf35f3bf2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesaPartAAndService
+    second: {fileID: 2100000, guid: 8f48b7a65d38380489f41291d65d6f82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal.001
+    second: {fileID: 2100000, guid: 1acb2c33da41e7c49931b469d2bc7fce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pirateCove
+    second: {fileID: 2100000, guid: 117179c7c16edab46a5b7f14cd125e32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: puerta de seguridad
+    second: {fileID: 2100000, guid: 1d333bc00a06ba84a9f6a2a5324173e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: respaldar
+    second: {fileID: 2100000, guid: 9c28424d70e1fa443992aeb6bac47231, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "telara\xF1a"
+    second: {fileID: 2100000, guid: 1683698e59cf87941814168955373149, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tv
+    second: {fileID: 2100000, guid: f806ef4d4aafb2c4c98439f3c920a898, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tv screen
+    second: {fileID: 2100000, guid: 9c0d2bbf8dfd57b408847588e70bd58a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tv.002
+    second: {fileID: 2100000, guid: 0274e901b23629540a283881f174c1d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ventilador
+    second: {fileID: 2100000, guid: b6bbaf294253ecc4d881bce758456dea, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

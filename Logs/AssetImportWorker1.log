@@ -1,0 +1,623 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.4/staging' branch; Version is '6000.4.0f1 (8cf496087c8f) revision 9237654'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) CoreSingleLanguage' Language: 'es' Physical Memory: 32529 MB
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-pablo" at "2026-06-04T15:05:14.9288452Z"
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-06-04T15:05:14Z
+
+COMMAND LINE ARGUMENTS:
+C:\Users\pablo\OneDrive\Escritorio\UNITY Hub\6000.4.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+D:/diseño 2/FNAF Proyecto/FNAF GAME
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+51648
+-licensingIpc
+LicenseClient-pablo
+-force-d3d12
+-job-worker-count
+5
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: D:/diseño 2/FNAF Proyecto/FNAF GAME
+D:/diseño 2/FNAF Proyecto/FNAF GAME
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [21720]  Target information:
+
+Player connection [21720]  * "[IP] 10.5.0.2 [Port] 0 [Flags] 2 [Guid] 627214238 [EditorId] 627214238 [Version] 1048832 [Id] WindowsEditor(7,soko06-k11166-lap) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [21720]  * "[IP] 192.168.5.199 [Port] 0 [Flags] 2 [Guid] 627214238 [EditorId] 627214238 [Version] 1048832 [Id] WindowsEditor(7,soko06-k11166-lap) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [21720] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [21720] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 2.40 ms, found 3 plugins.
+Initialize engine version: 6000.4.0f1 (8cf496087c8f)
+[Subsystems] Discovering subsystems at path C:/Users/pablo/OneDrive/Escritorio/UNITY Hub/6000.4.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/diseño 2/FNAF Proyecto/FNAF GAME/Assets
+Forcing GfxDevice: Direct3D 12
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+d3d12: failed to query info queue interface (0x80004002).
+Direct3D:
+    Version:         Direct3D 12 [level 12.2]
+    Renderer:        NVIDIA GeForce RTX 2060 (ID=0x1f15)
+    Vendor:          NVIDIA
+    VRAM:            5955 MB
+    App VRAM Budget: 5187 MB
+    Driver:          32.0.15.7652
+Initialize mono
+Mono path[0] = 'C:/Users/pablo/OneDrive/Escritorio/UNITY Hub/6000.4.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Users/pablo/OneDrive/Escritorio/UNITY Hub/6000.4.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Users/pablo/OneDrive/Escritorio/UNITY Hub/6000.4.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56704
+CodeReloadManager initialized
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Users/pablo/OneDrive/Escritorio/UNITY Hub/6000.4.0f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Users/pablo/OneDrive/Escritorio/UNITY Hub/6000.4.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003901 seconds.
+[Licensing::Client] Error: HandshakeResponse reported an error:
+	ResponseCode: 505
+	ResponseStatus: Unsupported protocol version '1.18.1'.
+[Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-pablo"
+[Licensing::IpcConnector] LicenseClient-pablo channel disconnected successfully.
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-pablo-6000.4.0" at "2026-06-04T15:05:16.5645663Z"
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.546 seconds
+Domain Reload Profiling: 1206ms
+	BeginReloadAssembly (177ms)
+	RebuildCommonClasses (57ms)
+	RebuildNativeTypeToScriptingClass (22ms)
+	initialDomainReloadingComplete (98ms)
+	LoadAllAssembliesAndSetupDomain (304ms)
+		LoadAssemblies (170ms)
+		AnalyzeDomain (292ms)
+			TypeCache.Refresh (290ms)
+				TypeCache.ScanAssembly (270ms)
+	FinalizeReload (548ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (64ms)
+			BeforeProcessingInitializeOnLoad (120ms)
+			ProcessInitializeOnLoadAttributes (155ms)
+			ProcessInitializeOnLoadMethodAttributes (113ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+[Licensing::Module] Licensing is not yet initialized.
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.1+9fbee8e
+  Session Id:              9e4ca2a613e14b878d7b517920e900e1
+  Correlation Id:          b13ecc6fd84d1df6601024998a95a8e4
+  External correlation Id: 7535259172360997452
+  Machine Id:              c0DeH97zrONB1C7ldSG5huWgnI8=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-pablo-6000.4.0" (connect: 0.00s, validation: 0.00s, handshake: 1.41s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-pablo-6000.4.0-notifications" at "2026-06-04T15:05:17.9749346Z"
+[Licensing::Module] Licensing Background thread has ended after 3.05s
+[Licensing::Module] Licensing is initialized (took 0.38s).
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: F4-C9AC-3A7T-BFP4-2Z3R-XXXX
+  Product: Unity Personal
+  Type: ULF
+  Expiration: Unlimited
+[Licensing::Module] License group:
+  Id: 4674180424871-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+Assembly Assembly-CSharp-Editor-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-Editor.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll not valid. Loading of assembly skipped.
+Assembly DocCodeExamples.dll at Library/ScriptAssemblies/DocCodeExamples.dll not valid. Loading of assembly skipped.
+Assembly TestNewCustomAssembly.dll at Library/ScriptAssemblies/TestNewCustomAssembly.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Sprite.Package.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Sprite.Package.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.InputSystem.IntegrationTests.dll at Library/ScriptAssemblies/Unity.InputSystem.IntegrationTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Editor.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Performance.Profile-Analyzer.EditorTests.dll at Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Settings.Tests.dll at Library/ScriptAssemblies/Unity.Settings.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TestTools.CodeCoverage.Editor.Compatibility.dll at Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.Compatibility.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Editor.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.Common.Tests.dll at Library/ScriptAssemblies/UnityEditor.UI.Common.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.EditorTests.dll at Library/ScriptAssemblies/UnityEditor.UI.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly UnityEngine.UI.Tests.dll at Library/ScriptAssemblies/UnityEngine.UI.Tests.dll not valid. Loading of assembly skipped.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.763 seconds
+Domain Reload Profiling: 2106ms
+	BeginReloadAssembly (633ms)
+		DisableScriptedObjects (8ms)
+		CreateAndSetChildDomain (41ms)
+	RebuildCommonClasses (49ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (99ms)
+	LoadAllAssembliesAndSetupDomain (545ms)
+		LoadAssemblies (407ms)
+		AnalyzeDomain (271ms)
+			TypeCache.Refresh (206ms)
+				TypeCache.ScanAssembly (191ms)
+			BuildScriptInfoCaches (55ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (764ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			BeforeProcessingInitializeOnLoad (165ms)
+			ProcessInitializeOnLoadAttributes (339ms)
+			ProcessInitializeOnLoadMethodAttributes (56ms)
+			AfterProcessingInitializeOnLoad (18ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3979 unused Assets / (1.2 MB). Loaded Objects now: 4589.
+Memory consumption went from 99.7 MB to 98.5 MB.
+Total: 7.078900 ms (FindLiveObjects: 0.580200 ms CreateObjectMapping: 0.532300 ms MarkObjects: 4.654800 ms  DeleteObjects: 1.309200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 28575.872935 seconds.
+  path: Assets/Models/Map/fnaf-pizzeria/source/fnafpizzeria.fbx
+  importAddress: Guid(cc7e8482874e1d447ad11ba3de819ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Map/fnaf-pizzeria/source/fnafpizzeria.fbx using Guid(cc7e8482874e1d447ad11ba3de819ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '8aef07cd1ec739a585c892129d7384ff') in 0.7450806 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=05b6a5f96606fb514b9aa41845ad485e DependenciesID=523e60e2eabeefd6c10c0423b7385002 StaticDependenciesID=6b464e6cd7d817f13afbf3eff4d2e398 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 352
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.263482 seconds.
+  path: Assets/Materials/asiento.mat
+  importAddress: Guid(8b49cad7fe5f3464687d6ddc87a21660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/asiento.mat using Guid(8b49cad7fe5f3464687d6ddc87a21660) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '20079c7aa940df85395f265a861abcc5') in 0.0351632 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d911718b912882d75e09975005662ef1 DependenciesID=98c508a71e09ba80a342b2f157796c54 StaticDependenciesID=433d65ef450f511903517c285fa18a27 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Materials/hornillas.mat
+  importAddress: Guid(20358a6032c65a7408b558e08f2f8e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/hornillas.mat using Guid(20358a6032c65a7408b558e08f2f8e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'f726ec96cb3419beb44627d5a7c5fa68') in 0.0109936 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=cd6a8ddb59da7954bfdbf025fb6126e4 DependenciesID=c9e10f52be988b4ea2f16e8d8f62f656 StaticDependenciesID=e6928d19a0025f8b7ec6003999fb3b77 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Materials/Toilet_Plastic.mat
+  importAddress: Guid(6d44e9abfb86a9047b55e1fef960cc08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Toilet_Plastic.mat using Guid(6d44e9abfb86a9047b55e1fef960cc08) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '51158c73f7fa285471f53799236335e2') in 0.0115711 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=189f43090c51d8867d7ea9a8f6aad78e DependenciesID=68ca767c098265c8cd42a55027c368e5 StaticDependenciesID=1fe47a7c63e929237ec347776f7034e5 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Materials/DIBUJOniño Myfunnyday - 2.mat
+  importAddress: Guid(08171c7f5576d2146b34babe8a84141a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/DIBUJOniño Myfunnyday - 2.mat using Guid(08171c7f5576d2146b34babe8a84141a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '2adc2afeb0357febb9cee229793131b0') in 0.0138213 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=feb34d15c810c21e6614322a0db0a614 DependenciesID=05ec0c86ce472e93027d2b682edd4f17 StaticDependenciesID=82cca8a1a25ea8094b38dc04666f34b6 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Materials/DIBUJOniño Myfunnyday-3.mat
+  importAddress: Guid(84d5539336b46b845b649cead7ee38a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/DIBUJOniño Myfunnyday-3.mat using Guid(84d5539336b46b845b649cead7ee38a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'd9a8abd291221aafaa3a44cc65172bf7') in 0.0134724 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e7fe67424c97c78df8e4629d19f6755a DependenciesID=eed3f814266ea06577a3ec8020aab61d StaticDependenciesID=c576d08905241386414db296d72921dc 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Materials/manecillas tv.mat
+  importAddress: Guid(ff24370a7b7d1254fba51aa5cb8505a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/manecillas tv.mat using Guid(ff24370a7b7d1254fba51aa5cb8505a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '6dee32746349a70770628f2a1570f096') in 0.0092791 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2cf17e15f6aae0c578f778f77d021e59 DependenciesID=c1611e3c2ca96fe8a42ce96ab2b2a98b StaticDependenciesID=eebd208d55bfc46a5db49528b165d58d 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Materials/coina.mat
+  importAddress: Guid(98b965143c4be494da5f4d404bd28cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/coina.mat using Guid(98b965143c4be494da5f4d404bd28cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '44cb1909745fbdfa89a52f033acf7eff') in 0.0096411 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2b364080594a709bd226befc6e19f877 DependenciesID=9afab24efae897a74400271d6873279d StaticDependenciesID=c2793356e240b0724442e26b8903e526 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Materials/horno.mat
+  importAddress: Guid(231f9d224cb28b942b691f2a114653a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/horno.mat using Guid(231f9d224cb28b942b691f2a114653a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'b4c433477a349005937c10d77a773c29') in 0.0089462 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c49282ba0aa41d194a88de1ab1c75575 DependenciesID=aba108bb90cfd9e6cf965a5df6619489 StaticDependenciesID=06af7026d50af82dfaafc13d11207f27 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Materials/granito.mat
+  importAddress: Guid(40053037eb25e5249b4d91a107268746) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/granito.mat using Guid(40053037eb25e5249b4d91a107268746) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '26e300c2940258c99a74ddc31e6732df') in 0.0148232 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c7d3b46077dcfc66842e77425bd38a29 DependenciesID=bbde37cdc4ea8fbe68eff0e14ad2e7e6 StaticDependenciesID=25a7271e09d5e91bee67af2a57620b92 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Materials/pirateCove.mat
+  importAddress: Guid(117179c7c16edab46a5b7f14cd125e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/pirateCove.mat using Guid(117179c7c16edab46a5b7f14cd125e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '5d8877f4b69f9c62e76c024be3ba2da4') in 0.0139927 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8dc1b998fc7ea4553492c238f4e49ef7 DependenciesID=b757ed992f6252039b9b922665750ade StaticDependenciesID=b5a9412185d9707d44274d4523131f54 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Materials/tv screen.mat
+  importAddress: Guid(9c0d2bbf8dfd57b408847588e70bd58a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/tv screen.mat using Guid(9c0d2bbf8dfd57b408847588e70bd58a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '6f3cf900de2c1b9ed9be51d8bc60225b') in 0.0102796 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a27e1b9b669f22116cb9566055a7e167 DependenciesID=34a7b4e536d6ec0dbff7e5e00d6ec77a StaticDependenciesID=c17907154f46e7ee11964a1c3c1b5f09 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Materials/gorro verde.mat
+  importAddress: Guid(a63f85d3e317d2840a9071ff71ab2f7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/gorro verde.mat using Guid(a63f85d3e317d2840a9071ff71ab2f7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'e74586e135607ad2460ebd38d1706d84') in 0.0110152 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a84ef01e615febb27c193ab0bcb1ab61 DependenciesID=7257825c23f2eb5151c4565191e89985 StaticDependenciesID=f334789150999d0a73c00ddb9170663e 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Materials/Canos.mat
+  importAddress: Guid(5cf44dd9e7b130b48a51deed2506ad3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Canos.mat using Guid(5cf44dd9e7b130b48a51deed2506ad3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'ef933e475ca4b37cc4afeaceb7fb5330') in 0.0147463 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0379f35d5366915a981d875dfa4e23c6 DependenciesID=45daaf1415c0c7e61eee4265271c1041 StaticDependenciesID=c986b2c880cab2ef4a1044e0f8e67f0e 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Materials/glass.mat
+  importAddress: Guid(c59a85df46b6c47449e3981a59b2bc92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/glass.mat using Guid(c59a85df46b6c47449e3981a59b2bc92) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '1c9d9bd18b2db9816001baa4ec83b459') in 0.0090167 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1afc33d2e86e38efabde9ef9c5f43f2f DependenciesID=4e502f86f8030e4a6919d43964713f25 StaticDependenciesID=65226db532f3232389500061c63cc2a3 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Materials/cortina.mat
+  importAddress: Guid(67099d5ebd1992e489c1f355f4f26e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/cortina.mat using Guid(67099d5ebd1992e489c1f355f4f26e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'c95caa8480e8902f0e6b3dfa047043de') in 0.0128732 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=cfcd3a434f860f31b4cd4b38597f2841 DependenciesID=e0f34009d53d3abfa8c5f2f55b2f5e9d StaticDependenciesID=cb5f50c2864f82d3cd3b70957e7ffa0b 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Materials/floor.mat
+  importAddress: Guid(0f6d033d1a75adb4cbd7e458726a3a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/floor.mat using Guid(0f6d033d1a75adb4cbd7e458726a3a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '7bf61bd8034dffbe99218663018f2c47') in 0.0155561 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=957bd25473e16a56cbd5f2fe069884db DependenciesID=6875029f7963a297acdb8afa8745b59c StaticDependenciesID=f5633b4ffb1de59d6bca6a8afb97b373 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Materials/telaraña.mat
+  importAddress: Guid(1683698e59cf87941814168955373149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/telaraña.mat using Guid(1683698e59cf87941814168955373149) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'a2ca2203a452350a9be62fe16e4472d0') in 0.0283962 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2323f124b20093a3178829039b937526 DependenciesID=fa23ba35685c26aa37b35a019c377287 StaticDependenciesID=0b75a18d1d91274bc17d18523f76258b 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Materials/gorro azul.mat
+  importAddress: Guid(8261bc0595df8864bb082c855b828789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/gorro azul.mat using Guid(8261bc0595df8864bb082c855b828789) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'd1af7fd9432522d702e1929378fec25f') in 0.009336 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2a51c3aa26c53437ee5287cccdf7ad7c DependenciesID=da7fae44f6a70aada8a1140718a65c24 StaticDependenciesID=f59b2f8d36b3fa764b653d8a9c11425c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Materials/foco.039.mat
+  importAddress: Guid(86ca591291616704a8c7999d3e03514f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/foco.039.mat using Guid(86ca591291616704a8c7999d3e03514f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'df222884b502c47e3133c03980e0e514') in 0.0091938 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=09b04ea50cde393a9d898930845f7e17 DependenciesID=c85a4354f6b7c3d58916c204c7297e3b StaticDependenciesID=3945c8a422a5289fc9beccebc4d534f0 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Materials/EscenarioWood.mat
+  importAddress: Guid(61f18e81b0f750840b4db69572725b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/EscenarioWood.mat using Guid(61f18e81b0f750840b4db69572725b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '3559deab46bc102f55ab06b80c6baffe') in 0.0145083 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f2ece251b386b5245e0a5151599411df DependenciesID=46c53ba584ff00ea0a717e9c51d7d510 StaticDependenciesID=70bafd43ba622029294ac50674d9cf4c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Materials/mesa.mat
+  importAddress: Guid(7761431baa0759f49b041ccf35f3bf2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/mesa.mat using Guid(7761431baa0759f49b041ccf35f3bf2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'eca89f8c8b2243fb7d4dfb5f9f438650') in 0.0088599 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=49555844150ba1f353fa12ae4e083f72 DependenciesID=cbb7983f5bb5713e17dc37c12dec2694 StaticDependenciesID=12a347496613166a709174ac205e5b80 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Materials/DIBUJOniño Myfunnyday.mat
+  importAddress: Guid(da1f76043f619e44dba2f72cedff77f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/DIBUJOniño Myfunnyday.mat using Guid(da1f76043f619e44dba2f72cedff77f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '080dcc5b2c5b36fece9ee67dbe8f3830') in 0.0113023 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=fb25847a8ba8a977174381d88fa6c94e DependenciesID=7b7840b164acf91746cb9f3919d49836 StaticDependenciesID=b292fae558f57487d450925239487383 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Materials/button_tv.002.mat
+  importAddress: Guid(34dd549ed3c261b4b80df25613aadbd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/button_tv.002.mat using Guid(34dd549ed3c261b4b80df25613aadbd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '951d778c46f11303bb38f9a17402d7c2') in 0.0088094 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5c17825f6ac34f70c5fdc8e46e24f3b0 DependenciesID=791a8b76d1de44d72ddfe640899dae00 StaticDependenciesID=36e1b7588e47335d1fddba938e8a1925 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Materials/foco.mat
+  importAddress: Guid(b6375e08ff42fb646a191ae8a501b06b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/foco.mat using Guid(b6375e08ff42fb646a191ae8a501b06b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '861eadc9063bc475fb630373ebb19859') in 0.0087445 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1c3b901abe23407ae6dbf623d565f474 DependenciesID=092dfa12840e00786579b5a5fac02ab0 StaticDependenciesID=c37d19bf94187e23c066bf418a2de590 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Materials/Toilet_Lock.mat
+  importAddress: Guid(c6274b26351209544849525fea654d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Toilet_Lock.mat using Guid(c6274b26351209544849525fea654d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '6161a1e96cc582037e57f2e6b59fb03f') in 0.0099896 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5fce797261ab22af55a25dfe7c00178c DependenciesID=d72cfed27b4da47bf9a6e316541f4004 StaticDependenciesID=d7b5912bb0722b89c82db8afca304f87 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Materials/Toilet_Main White.mat
+  importAddress: Guid(f8fda8c4dc13bca43a3e7b95a983a7b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Toilet_Main White.mat using Guid(f8fda8c4dc13bca43a3e7b95a983a7b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '78c13ebffdfc0b028938238853d29471') in 0.0085917 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=adfa76a0e8995d497b06b20325ab8260 DependenciesID=e16480238efd2b290021514f3f18e065 StaticDependenciesID=b6483c3182903091ed4086ea23b6b143 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Materials/escritorio.mat
+  importAddress: Guid(9fa0ac061d9f75a4e990f17e99fd2a5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/escritorio.mat using Guid(9fa0ac061d9f75a4e990f17e99fd2a5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '644bc9e18874fd293d3cd98eafee25f3') in 0.0088754 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=99564d07859357f86964628ac39782e5 DependenciesID=09c69f89e9262a772383ffd3bacfd2a5 StaticDependenciesID=d9aea5dbba46d3b21df7bea2e88b94df 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Materials/Toilet_Metal.mat
+  importAddress: Guid(28a2655662069824993d313d9a47ad16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Toilet_Metal.mat using Guid(28a2655662069824993d313d9a47ad16) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'f660960237532638536c66ac22b5dafd') in 0.0084584 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3a7a5fad09d09629d9bea0ac80691192 DependenciesID=2e7af674f36d91e9499cdf90ebe26048 StaticDependenciesID=64561bc430ead6fdca6986bd13cd7b50 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Materials/mesaPartAAndService.mat
+  importAddress: Guid(8f48b7a65d38380489f41291d65d6f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/mesaPartAAndService.mat using Guid(8f48b7a65d38380489f41291d65d6f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '4f1b96217e1f6cb09dd03443e7e49925') in 0.0081319 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=06ce5e070459dd48047242e08de73ff0 DependenciesID=12abbb6c1f2558c770eaedc31604a31a StaticDependenciesID=ad3a896c0da5b482dda68b016ca14a45 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Materials/gorro rojo.mat
+  importAddress: Guid(9426824cf7429ed41887b814bb955016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/gorro rojo.mat using Guid(9426824cf7429ed41887b814bb955016) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '99e27cce0e430b48e975e710bb43ed99') in 0.0126295 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=39296c0473322d3374f95dfa4b59b2a2 DependenciesID=14073e186c177c615128c45e430bf684 StaticDependenciesID=ecd6014d20abfdf97e6f483ec4686d4c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.403365 seconds.
+  path: Assets/Materials/Estantes MAdera.mat
+  importAddress: Guid(1cbabcd9ed4156741a8e2c68ef9f12f1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Estantes MAdera.mat using Guid(1cbabcd9ed4156741a8e2c68ef9f12f1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'bd35ccf2d109e7e077c70eb599e181db') in 0.096607 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c957731de86ac2625caaa7bff9c09b84 DependenciesID=8a4847f5e32d212873c278c4cb8b4e5d StaticDependenciesID=12b93e27d803020a5232109372b87ab5 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Materials/foco.020.mat
+  importAddress: Guid(de64c5f096ef0a44e92df364bd92f1f1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/foco.020.mat using Guid(de64c5f096ef0a44e92df364bd92f1f1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'b730d8922de91946d783db263f090130') in 0.0065269 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=54fbcaad7620df58b5ed760e0fdad4e1 DependenciesID=964d4fe073b59fb7c42a5a862a9fb7ad StaticDependenciesID=6df99719d4017e016d4fe6431d94072b 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Materials/fnaf.mat
+  importAddress: Guid(1a312d01765a1234da7cb2fb82d87aae) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/fnaf.mat using Guid(1a312d01765a1234da7cb2fb82d87aae) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'c535e0fdcf9bdd95a39e9b43695d959b') in 0.0071921 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0e1b2a8e9e80cfdc22a72dab55f510c7 DependenciesID=8c132935787c779de1a31402b58c07bd StaticDependenciesID=864709bc7581b8c0cde5c6a8d91e631f 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Materials/cortina.mat
+  importAddress: Guid(67099d5ebd1992e489c1f355f4f26e76) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/cortina.mat using Guid(67099d5ebd1992e489c1f355f4f26e76) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '8592a57ef15396ceebd2cf61b65fe3b5') in 0.0055645 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=60a50c4d63d74102aa96c7e9778fa8a5 DependenciesID=261d2cb1ba8561d112f5474b7664800e StaticDependenciesID=dda576705fb82561c212faef8d63cd8b 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Materials/ventilador.mat
+  importAddress: Guid(b6bbaf294253ecc4d881bce758456dea) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/ventilador.mat using Guid(b6bbaf294253ecc4d881bce758456dea) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '50c09b137e2fc8b85b07f4e1cd254831') in 0.0057094 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=88ba73f75b7c7a30a87e9fd83a8e3bfd DependenciesID=586ac5ea8a642387e38ceb02634d21d9 StaticDependenciesID=6a73bce13d3f128c8ff810aebaf4b57b 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Materials/puerta de seguridad.mat
+  importAddress: Guid(1d333bc00a06ba84a9f6a2a5324173e9) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/puerta de seguridad.mat using Guid(1d333bc00a06ba84a9f6a2a5324173e9) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '30daaa9862115b0c5b14e950fd99a6a7') in 0.0194597 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e8e859f0f3f186a2898728f5e4fbd381 DependenciesID=d4c866bb6650eb47fabfe6cca2eb1239 StaticDependenciesID=05540c4d631a43d5369d63fe6896c59b 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Materials/button_tv.mat
+  importAddress: Guid(3a3cd9d423b691a4d84dc555a8a2ed57) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/button_tv.mat using Guid(3a3cd9d423b691a4d84dc555a8a2ed57) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'bf11d8f5f85dbcb1af5b65a44c881555') in 0.0042835 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d44f157cc7a9d19b1c0a16ea768245d6 DependenciesID=ef1b7470f52664e3591893e78d5d404d StaticDependenciesID=eb9ac687b6909c32f7f821877f52b587 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Materials/asiento.mat
+  importAddress: Guid(8b49cad7fe5f3464687d6ddc87a21660) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/asiento.mat using Guid(8b49cad7fe5f3464687d6ddc87a21660) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '0ec894fb07e941c1209fc6b23bf4f2b0') in 0.005234 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3d57eeb91c979e0717b5c2a96e1f6670 DependenciesID=29ef2186fa4f008d547aee93518fe83b StaticDependenciesID=5b9afb8114c0673f2d78462264ba9cac 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Materials/mesa.mat
+  importAddress: Guid(7761431baa0759f49b041ccf35f3bf2d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/mesa.mat using Guid(7761431baa0759f49b041ccf35f3bf2d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'de4a1041e7e3f5ebe57bd0c6412da54f') in 0.0048952 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f4725bc89b4ba2dd1a0a0e65c84b1d4f DependenciesID=37d8616b7ba380a1b58091abe4d15465 StaticDependenciesID=bf02725df4630529bceee626819a7335 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/Materials/gorro marron.mat
+  importAddress: Guid(f6b3f0f0b4f67474c8f8190023fc9628) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/gorro marron.mat using Guid(f6b3f0f0b4f67474c8f8190023fc9628) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '44c716f932f95ebc8ead11645abe1388') in 0.0062967 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f8671dfd50500c0b792b790e1ec9b1b1 DependenciesID=ee53165e955b2c079c1e6d55a5f912b7 StaticDependenciesID=980655aea53e098c3004b7147c586067 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Materials/floor.mat
+  importAddress: Guid(0f6d033d1a75adb4cbd7e458726a3a1c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/floor.mat using Guid(0f6d033d1a75adb4cbd7e458726a3a1c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'c580e6babc6ce42fbaf195cdecce3946') in 0.0097307 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=bc5fba913017fc13d0eb233490828a7a DependenciesID=6e8b34a84693ef6246bb7aeb1bcfc63e StaticDependenciesID=ff0ba61bc03e550f529e7b7b2627ab98 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Materials/tv screen.mat
+  importAddress: Guid(9c0d2bbf8dfd57b408847588e70bd58a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/tv screen.mat using Guid(9c0d2bbf8dfd57b408847588e70bd58a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '40fcf0ad6d328d072591387f5c6dfe55') in 0.0049372 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=86b00d79833a3d8a86fc4f17943aaa60 DependenciesID=aa00bf12b58a52a8b6820cd18eb89323 StaticDependenciesID=e4137ea891d09d057fcb8d384b1778c4 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Materials/horno.mat
+  importAddress: Guid(231f9d224cb28b942b691f2a114653a3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/horno.mat using Guid(231f9d224cb28b942b691f2a114653a3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '9d64d944cdf46539feb51b37d84668ca') in 0.0041632 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9b9ccf1f1e963371b7cd1906164f3e24 DependenciesID=01f63918d5fb98d74dd3de21c2da3bfd StaticDependenciesID=0dbbe92662a6f03e5502315ff76dcd2a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Materials/main material.mat
+  importAddress: Guid(737857b1ff2470f48982c6b50b30e46c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/main material.mat using Guid(737857b1ff2470f48982c6b50b30e46c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'e641d2d08521433363b3bf6ca3718545') in 0.0112217 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4cf888dc8813839314abf35a7967cf92 DependenciesID=970ed93ecc04e507fadceb11d653613a StaticDependenciesID=113a52882a822dc3e2acefcb2d838662 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Materials/Toilet_Lock.mat
+  importAddress: Guid(c6274b26351209544849525fea654d9c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Toilet_Lock.mat using Guid(c6274b26351209544849525fea654d9c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '8a155a372f70218158c81498defac478') in 0.0048844 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e75df619675eaa547b431076f3c1debf DependenciesID=d732fb355b7f862bb9f3ca721fd3fb6e StaticDependenciesID=581fa3e21e6511c34ed69f77791d9cb5 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Materials/Canos.mat
+  importAddress: Guid(5cf44dd9e7b130b48a51deed2506ad3c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Canos.mat using Guid(5cf44dd9e7b130b48a51deed2506ad3c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '3c81eaef7adadb5a7fe008fee0306206') in 0.0145863 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=251196c13e3981057860cb7571d20dd2 DependenciesID=75f0b9277278752e453085ab7a768f6e StaticDependenciesID=0bdf4733239a45a688312d145f911c27 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Materials/Toilet_Main White.mat
+  importAddress: Guid(f8fda8c4dc13bca43a3e7b95a983a7b5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Toilet_Main White.mat using Guid(f8fda8c4dc13bca43a3e7b95a983a7b5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '29e9df0e0e0662cd6eb360d1fd565014') in 0.003779 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3451a13433df69be15fc0790b8a2a7e6 DependenciesID=cbfa96d503369e1ff0e90b9a50d7c146 StaticDependenciesID=2e4236f5188bf1bfb21060306e719151 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Materials/DIBUJOniño Myfunnyday-3.mat
+  importAddress: Guid(84d5539336b46b845b649cead7ee38a6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/DIBUJOniño Myfunnyday-3.mat using Guid(84d5539336b46b845b649cead7ee38a6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'cd15343ef754d82e27c16d91d95ed4a0') in 0.0083344 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e70952ebf01a0dbd0f3803e3bcf5a465 DependenciesID=5033b331c4b412f2a30d22c4fa0eb410 StaticDependenciesID=6fe318430d2bc3dc19acae18cab11998 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
